@@ -1,2 +1,2 @@
-# tbd-sdtw
-Tehnici Big Data - SDTW
+# Tehnici Big DATA
+TBD - SDTW
